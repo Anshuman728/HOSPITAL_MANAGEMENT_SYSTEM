@@ -36,8 +36,21 @@ Admins have the capability to add new admins to the system.
 ![Screenshot (252)](https://github.com/user-attachments/assets/387bf365-a641-4a8a-badd-3f505158d569)
 ![Screenshot (253)](https://github.com/user-attachments/assets/c9a771a2-89c5-4259-abc9-356dfbca019a)
 
+## Technologies Used
+Frontend:  React.js
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT (JSON Web Token)
 
-
+## Installation
+#####  Clone the repository:
+#####  Navigate to the project directory:
+#####  Install dependencies for both frontend and backend:
+#####  Create a .env file in the backend directory and add your MongoDB URI and JWT secret,Cloud_name,API_KEY,API_SECRET,FRONTEND_URL,DASHBOARD_URL,JWT_SECRET,JWT_EXPIRES,COOKIE_EXPIRE in it:
+##### Start the backend server:
+ Use Command  "npm run dev" to start the backend server.
+##### Start the frontend server:
+ Use Command  "npm run dev" to start the frontend and dashboard server.
 
 
 
